@@ -19,6 +19,7 @@ c)Analyse des ventes :
 •	Suivre l’évolution des ventes mensuelles et annuelles.
 
 d)Analyse financière :
+
 •	Comparer les revenus et les dépenses pour identifier la rentabilité de l’entreprise.
 
 •	Suivre la marge bénéficiaire et le bénéfice net.
