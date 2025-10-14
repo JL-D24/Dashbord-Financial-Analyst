@@ -1,5 +1,5 @@
 Ce projet consiste à construire un tableau de bord Power BI interactif 
-permettant d’aider la direction MEUBLATEX DE prendre des décisions stratégiques.
+permettant d’aider la direction MEUBLATEX de prendre des décisions stratégiques.
 
 Objectifs spécifiques : 
 
