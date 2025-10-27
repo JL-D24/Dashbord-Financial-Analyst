@@ -1,12 +1,11 @@
-Ce projet consiste à construire un tableau de bord Power BI interactif 
+Ce projet consiste à construire un tableau de bord interactif 
 permettant d’aider la direction MEUBLATEX de prendre des décisions stratégiques.
 
 Objectifs spécifiques : 
 
-a)Les ventes : Suivi des performances commerciales et des tendances.
+a)Suivi des performances commerciales et des tendances.
 
-b)L’analyse financière : Évaluation de la rentabilité et des dépenses.
-
+b)Évaluation de la rentabilité et des dépenses.
 
 En termes d'analyses approfondies :
 
